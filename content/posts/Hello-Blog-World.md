@@ -16,6 +16,6 @@ For years I've been meaning to start a blog but never did, I think a big part of
 Eventually I realized that I'm overthinking it, my blog doesn't need to be super new tutorials or advanced opinions on technology, it just needs to be *my own*. 
 My own experiences, my own thoughts and lessons, my own notes to myself as a developer and person. Increasing online presence, learning in public, looking good for a job, those aren't the right reasons for me because then I won't enjoy doing this. 
 
-The main goal is to show my future self my growth and progress over the yearsz, so I can always come back here and find some motivation.
+The main goal is to show my future self my growth and progress over the years, so I can always come back here and find some motivation.
 
 So yeah, hey! <span role="img" aria-label="sheep">😃</span>

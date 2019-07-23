@@ -37,7 +37,7 @@ So we kept at it until eventually a groupmate said *"what about a map of [double
 I felt like our logic was sound and the idea was fun, looking back I still think that. Sure we were naive, we didn't understand just how much had already been done and failed in this space locally, we didn't understand the extent of sustainability problems and we didn't think about how this might be the last time we get to devote a large amount of time to a passion project as a group of friends before entering the working world, but we had drive and a plan for a map. <br/>
 I'm glad we didn't choose an idea that made someone else happy.
 
-![](/media/DoublesRunSplash.png)
+![](/media/DoublesRunSplash.PNG)
 
 ## Building It
 We named it ***Doubles Run*,** after the term "*Food run*" that's used to describe the act of leaving somewhere to quickly pick up food for/with friends. When the project was barely under-way my good friend, [isquishi](https://www.instagram.com/isquishi/) made a flat vector drawing of doubles for us to use as a map marker and icon as well. 
@@ -57,7 +57,7 @@ We didn't stop there though, after getting our A+ we kept working on it for the 
 
 We planned a makeshift marketing campaign that included a backlog of art, photography and posters for social media and talking to doubles vendors about a "Rate me on Doubles Run" sticker on their cart/box. We even got a few friends together and started making food run themed skits, we never released them but they were certainly a lot of fun to make!
 
-![Screenshots](/media/DoublesRunSkit.png)
+![Screenshots](/media/DoublesRunSkit.PNG)
 *Making the marketing skits*
 
 I romanticized the building period by leaving out the countless bugs, hair pulling frustration, dependency issues, hosting problems due to the collaborative filtering model, optimization problems with the offline data, arguing over whether or not the name "*Doubles Run*" made people think of a game like "*Temple Run*", learning how to design splash screens and logos, and the list goes on and on. I mean I'd love to talk about those as well but it would be too much and I think the positive highlight memories are more important here anyway. I can talk about challenges without bringing up all those fine details.

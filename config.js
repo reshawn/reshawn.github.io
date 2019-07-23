@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://reshawn.gihub.io',
-  pathPrefix: '/reshawn.github.io',
+  pathPrefix: '/',
   title: 'Re.shawn',
   subtitle: 'Learning to be a better technologist, human and writer of bios',
   copyright: '© All rights reserved.',
