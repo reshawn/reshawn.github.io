@@ -1,5 +1,5 @@
 ---
-title: A Journey From Fark to Fork
+title: A Journey From Farm to Fork
 # The Food Map Project
 # A Journey from farm to fork
 date: "2019-09-13T12:52:32.169Z"
@@ -11,7 +11,7 @@ tags:
   - "Traceability"
   - "Decentralized App"
   - "Blockchain"
-description: "Building a decentralized app for trustworthy tracing of local produce and groceries from fark to fork."
+description: "Building a decentralized app for trustworthy tracing of local produce and groceries from farm to fork."
 ---
 
 
