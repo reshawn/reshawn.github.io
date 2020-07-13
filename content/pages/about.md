@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: 12/07/2020
+slug: /pages/about
 draft: false
 ---
 I'm a software developer living in Trinidad & Tobago, currently pursuing an MSc in Computer Science while working part-time as a tutor at the University of the West Indies. I'm also a member of a local research group, TTLab, and my current main interest is in data science.
