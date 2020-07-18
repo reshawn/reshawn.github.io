@@ -15,6 +15,8 @@ In this tutorial we use selenium to initialize and drive a headless live stream 
 
 ![](/media/eagle_livestream.JPG "Screenshot of Decorah Eagles Livestream by Explore.org")
 
+_Screenshot of Decorah Eagles Livestream by Explore.org_
+
 ## What to Scrape
 
 Live streams are fed and consumed in chunks of video, to access these chunks manually:
