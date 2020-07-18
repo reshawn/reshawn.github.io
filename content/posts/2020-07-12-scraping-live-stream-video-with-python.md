@@ -2,7 +2,7 @@
 template: post
 title: Scraping Live Stream Video with Python
 slug: /posts/scraping-live-stream
-draft: true
+draft: false
 date: 2020-07-13T00:20:29.283Z
 description: Tutorial on scraping live stream videos using python and serenium
 category: Tutorial
